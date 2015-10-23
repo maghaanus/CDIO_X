@@ -19,7 +19,7 @@ public class Terninger {
 //		int[] roll = Roll.Roll();
 //
 //		System.out.println("Du slog: " + roll[0] + " og " + roll[1] + " summen er " + roll[2]);
-//	}
+//	} 
 		
 	public int[] Roll() {
 
